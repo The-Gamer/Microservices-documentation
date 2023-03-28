@@ -8,7 +8,7 @@ decomposing the large codebase down into small well-defined pieces.The key conce
 about microservices is decomposing and unbundling the functionality of applications so that they are completely 
 independent of one another. 
 
-Consider the below legacy application used for an orders service
+Consider the below legacy application used for an orders service. </br>
 ![Fig 1.1](Typical spring application.png)</br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Typical spring application) </br></br>
 If we take the Orders service from the above and decompose it into microservices it might look like below. </br>

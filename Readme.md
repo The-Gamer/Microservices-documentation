@@ -9,7 +9,7 @@ about microservices is decomposing and unbundling the functionality of applicati
 independent of one another. 
 
 Consider the below legacy application used for an orders service
-![Fig 1.1](Typical spring application.jpg)</br>
+![Fig 1.1](Typical spring application.png)</br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Typical spring application) </br></br>
 If we take the Orders service from the above and decompose it into microservices it might look like below. </br>
 ![Fig 1.2](decomposed%20microservices.png)
